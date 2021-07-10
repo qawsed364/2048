@@ -1,3 +1,4 @@
+```
 c = 3
 while c > 0:
     x = input("Guess my luckey number!")
@@ -12,3 +13,4 @@ while c > 0:
             print("too small!")
         c = c - 1
 print("GG!")
+```
